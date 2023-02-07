@@ -37,7 +37,7 @@ int main() {
     break;
   
   default:
-    printf("Ошибка");
+    printf("Error");
     break;
   }
 
