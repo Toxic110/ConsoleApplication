@@ -3,7 +3,6 @@
 int main() {
   int mas[100][100];
   int counArray, arrayLength;
-  int flag = true;
 
   printf("Введите сколько вы хотите заполнить массивов ");
   scanf("%i", &counArray);
